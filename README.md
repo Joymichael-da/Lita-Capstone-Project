@@ -32,7 +32,7 @@ The primary source of data used here is Data sale.csv and Consumer Data.csv and 
 
 ![image](https://github.com/user-attachments/assets/c9c4d5eb-92eb-4cb3-a276-39863933d05b)
 
-  4) Average Sales Per Product Using Excel Formula;
+  4) Average Sales Per Product Using Excel Formula Averageif;
 - Shirt  - 326.6667
 - Shoes - 308.75
 - Hat - 158.75
@@ -40,10 +40,36 @@ The primary source of data used here is Data sale.csv and Consumer Data.csv and 
 - Jacket - 140
 - Gloves - 200
 
-   5) Total Revenue by Region Using Excel Formula;
+  5) Total Revenue by Region Using Excel Formula Sumif;
+- East	- 2450000
+- North	- 1950000
+- South	- 4675000
+- West	- 1512500
+
+#### On SQL
+ 1) Total Sales for Each Product Category using the query Select Sum(Quantity*UnitPrice) as TotalSales from lita_capstone_project group by Product;
+- Shirt - 2367280
+- Shoes - 2983085
+- Hat - 1533700
+- Jacket - 1014420
+- Gloves - 1449200
+
+ 2) Number of Sales Transaction in Each Region using the query Select count(Quantity) from lita_capstone_project group by Region;
+- North - 12078
+- South - 12078
+- East - 12077
+- West - 12077
+
+ 3) Highest Selling Product by Total Sales Value using the query
+- Shoes - 2983085
+
+4) Monthly Sales Totals for the current year using the query Select month(OrderDate) asd month,sum(Quantity*UnitPrice) as monthly_sales from lita_capstone_project where year(OrderDate)=2023 group by month(OrderDate) order by month;
+
+
+
  
 
-   6) 
+
   
 
 
