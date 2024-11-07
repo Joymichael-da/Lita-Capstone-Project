@@ -64,6 +64,62 @@ The primary source of data used here is Data sale.csv and Consumer Data.csv and 
 - Shoes - 2983085
 
 4) Monthly Sales Totals for the current year using the query Select month(OrderDate) asd month,sum(Quantity*UnitPrice) as monthly_sales from lita_capstone_project where year(OrderDate)=2023 group by month(OrderDate) order by month;
+ - 1 - 241600
+ - 2 - 1208000
+ - 3 - 253680
+ - 4 - 36240
+ - 5 - 289920
+ - 6 - 483200
+ - 7 - 1159680
+ - 8 - 144960
+ - 9 - 169120
+ - 10 - 652320
+ - 11 - 507150
+ - 12 - 241500
+
+5) The Top 5 Customers by Total Purchase Amount using the query Select CustomerId,Sum(quantity*UnitPrice) as total_purchase_amount from lita_capstone_project group by CustomerId order by total_purchase_amount desc limit 5;
+- Cus1375 - 28155
+- Cus1023 - 27695
+- Cus1353 - 27655
+- Cus1171 - 27470
+- Cus1367 - 27360
+
+6) Calculate the percentage of Total Sales contribution by each region using the query Select Region,Sum(Quantity*UnitPrice) as total_purchase_amount,(Sum(Quantity*UnitPrice)/(Select Sum(Quantity*UnitPrice) from lita_capstone_project))*100 as percent_total_sales from lita_capstone_Project group by Region order by total_purchase_amount;
+- West - 1461150 - 14.2838%
+- North - 1883990 - 18.4173%
+- East - 2367285 - 23.1419%
+- South - 4517020 - 44.1570%
+
+7)  Identify Products with no sales
+
+#### On Power BI    
+-Showing the data for Products by Total Sales
+ 
+
+
+From the data above we can deduce that Shoes was the highest selling product and Socks was the least selling product.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-Sum of Total Sales By Region
+
+
+
+
+
 
 
 
