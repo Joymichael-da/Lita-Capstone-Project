@@ -94,12 +94,14 @@ The primary source of data used here is Data sale.csv and Consumer Data.csv and 
 
 #### On Power BI    
 -Showing the data for Products by Total Sales
- 
 
+![Screenshot (23)](https://github.com/user-attachments/assets/85f27a7e-71f2-4566-9c51-f6775bc4ba32)
 
 From the data above we can deduce that Shoes was the highest selling product and Socks was the least selling product.
 
 
+
+![Screenshot (24)](https://github.com/user-attachments/assets/c3ae30d4-8b8a-473b-ac2c-9f756ff1bec0)
 
 
 
