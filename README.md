@@ -93,15 +93,27 @@ The primary source of data used here is Data sale.csv and Consumer Data.csv and 
 7)  Identify Products with no sales
 
 #### On Power BI    
--Showing the data for Products by Total Sales
+- Showing the data for Products by Total Sales
 
-![Screenshot (23)](https://github.com/user-attachments/assets/85f27a7e-71f2-4566-9c51-f6775bc4ba32)
+![Screenshot (27)](https://github.com/user-attachments/assets/e6435037-b895-4569-a573-c920b1b81c66)
 
 From the data above we can deduce that Shoes was the highest selling product and Socks was the least selling product.
 
+- Showing Total Sales per Region
+
+![Screenshot (29)](https://github.com/user-attachments/assets/b27929b3-0ce4-41c0-a2f0-bc9326c1cb65)
 
 
-![Screenshot (24)](https://github.com/user-attachments/assets/c3ae30d4-8b8a-473b-ac2c-9f756ff1bec0)
+From the data above we can deduce that the top selling product per region is South and the least selling product per region is West.
+
+- Showing Total sales per Month
+
+  ![Screenshot (28)](https://github.com/user-attachments/assets/e46baaa4-9a9b-4f45-aa66-e313510ffdad)
+
+  From the data above we can deduce that the best month of sales is February and the least month of sales is September.
+  
+
+
 
 
 
