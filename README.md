@@ -6,13 +6,11 @@ This project will be featuring;
 - Regional Performance.
 - Monthly Sales Trends.
 
-  
 ### Methodology and Tools Needed
 - Microsoft Excel for Data cleaning and Visualization.
 - SQL - Structured Query Language for quering of data.
 - Power BI for data visualization.
 - Github for submission.
-
 
 ### Data Sources
 The primary source of data used here is Data sale.csv and Consumer Data.csv and this ia an open source data provided by our instructors.
@@ -103,7 +101,6 @@ From the data above we can deduce that Shoes was the highest selling product and
 
 ![Screenshot (29)](https://github.com/user-attachments/assets/b27929b3-0ce4-41c0-a2f0-bc9326c1cb65)
 
-
 From the data above we can deduce that the top selling product per region is South and the least selling product per region is West.
 
 - Showing Total sales per Month
@@ -111,7 +108,8 @@ From the data above we can deduce that the top selling product per region is Sou
   ![Screenshot (28)](https://github.com/user-attachments/assets/e46baaa4-9a9b-4f45-aa66-e313510ffdad)
 
   From the data above we can deduce that the best month of sales is February and the least month of sales is September.
-  
+
+  In summary,Shoes was the top selling product in the South region in February.
 
 
 
@@ -128,7 +126,7 @@ From the data above we can deduce that the top selling product per region is Sou
 
 
 
--Sum of Total Sales By Region
+
 
 
 
