@@ -1,10 +1,10 @@
 # Lita-Capstone-Project
 ### Goals And Objectives
-We had a 3month virtual training session with Incubator Hub as our trainer.This repository is a project given to the student to test our knowledge of what we have learnt in the past months.This project contains a sales data created in an Excel format,the student are expected to analyse the the sales performance of a retail store and provide certain reports.
-This project will be featuring;
+We had a 3month virtual training session with Incubator Hub as our trainer.This repository is a project given to the student to test our knowledge of what we have learnt in the past months.This project contains a sales data created in an Excel format to analyze the sales performance of a retail store. This project will explore the sales data to uncover key insights such as;
 - Top selling Products.
 - Regional Performance.
 - Monthly Sales Trends.
+The goal is to produce an interactive Power BI dashboard that highlights these findings.
 
 ### Methodology and Tools Needed
 - Microsoft Excel for Data cleaning and Visualization.
@@ -13,7 +13,7 @@ This project will be featuring;
 - Github for submission.
 
 ### Data Sources
-The primary source of data used here is Data sale.csv and Consumer Data.csv and this ia an open source data provided by our instructors.
+The primary source of data used here is sale data.csv and this ia an open source data provided by our instructors.
 
 ### Analysis and Results
 #### PROJECT 1
@@ -109,7 +109,22 @@ From the data above we can deduce that the top selling product per region is Sou
 
   From the data above we can deduce that the best month of sales is February and the least month of sales is September.
 
-  In summary,Shoes was the top selling product in the South region in February.
+  In summary;
+  Top selling product in Descending Order:
+  Shoes
+  Shirt
+  Hat
+  Gloves
+  Jacket
+  Socks
+  Regional Performance in Descending Order:
+  South
+  East
+  North
+  West
+  Monthly Sales Trend in Descending Order:
+  February
+  .
 
 
 
