@@ -1,4 +1,4 @@
-# Lita-Capstone-Project
+# Lita-Capstone-Project 1
 ### Goals And Objectives
 We had a 3month virtual training session with Incubator Hub as our trainer.This repository is a project given to the student to test our knowledge of what we have learnt in the past months.This project contains a sales data created in an Excel format to analyze the sales performance of a retail store. This project will explore the sales data to uncover key insights such as;
 - Top selling Products.
