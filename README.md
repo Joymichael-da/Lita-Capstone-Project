@@ -109,22 +109,52 @@ From the data above we can deduce that the top selling product per region is Sou
 
   From the data above we can deduce that the best month of sales is February and the least month of sales is September.
 
-  In summary;
-  Top selling product in Descending Order:
+  #### In summary;
+  - Top selling product in Descending Order:
+  
   Shoes
+
   Shirt
+
   Hat
+
   Gloves
+
   Jacket
+
   Socks
-  Regional Performance in Descending Order:
+
+  - Regional Performance in Descending Order:
+  
   South
+
   East
+
   North
+
   West
-  Monthly Sales Trend in Descending Order:
+ 
+  - Monthly Sales Trend in Descending Order:
+  
   February
-  .
+
+  July
+
+  January/June
+
+  August
+
+  October
+
+  March
+
+  May/November
+
+  December
+
+  April
+
+  September
 
 
 
